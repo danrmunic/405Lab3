@@ -48,4 +48,4 @@ __Figure 3:__ Motor Responce, Mp = 40ms.
 
 ## Website Link
 
-* [Lab03 Website](https://danrmunic.github.io/405Lab3/docs/index.html)
+* [Lab03 Website](https://danrmunic.github.io/405Lab3/index.html)
