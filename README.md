@@ -33,6 +33,11 @@ __Figure 3:__ Motor Responce, Mp = 40ms.
 * [main.py](https://github.com/danrmunic/405Lab3/blob/main/src/main.py)
 * [closedloop.py](https://github.com/danrmunic/405Lab3/blob/main/src/closedloop.py)
 
+## Classes used (not written by us)
+
+* [cotask.py](https://github.com/danrmunic/405Lab3/blob/main/src/cotask.py)
+* [taskshare.py](https://github.com/danrmunic/405Lab3/blob/main/src/task_share.py)
+
 ### Class run by the PC
 
 * [Lab03_PC](https://github.com/danrmunic/405Lab3/blob/main/src/Lab03_PC.py)
@@ -43,4 +48,4 @@ __Figure 3:__ Motor Responce, Mp = 40ms.
 
 ## Website Link
 
-* [Lab03 Website](https://danrmunic.github.io/405Labs/docs/index.html)
+* [Lab03 Website](https://danrmunic.github.io/405Lab3/docs/index.html)
