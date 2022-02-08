@@ -10,17 +10,17 @@ We tried 70 as our period but it produced a noticable amount of overshoot. Then 
 but we want to find the slowest period that produces no overshoot. 40 was a good period with no overshoot so we decided to stick with it. See images below.
 
 
-![Kpof10](Mp70.png)
+![Mp10](MP70.png)
 
 __Figure 1:__ Motor Responce, Mp = 70.
 
 
-![Kpof20](Mp10.png)
+![Mp20](MP10.png)
 
 __Figure 2:__ Motor Responce, Mp = 10.
 
 
-![Kpof50](Mp40.png)
+![Mp50](MP40.png)
 
 __Figure 3:__ Motor Responce, Mp = 40.
 
