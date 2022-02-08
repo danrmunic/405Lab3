@@ -4,11 +4,27 @@ Spinning two motors at once with the magic of scheduling
 
 ## Somebody come Git her
 
-This lab required us tune the period of our motor. We tested values manually.
-We tried 70 as our period but it had too much overshoot. We tried 10 and it had
-not enough. 40 was a good period so we decided to stick with it. 
+This lab required us to tune the period of our motor. We tested values manually.
+The Kp is 50 as determinted to be most efficient by lab2. Is used for our motors while determining the motor period.
+We tried 70 as our period but it produced a noticable amount of overshoot. Then we tried 10 and there was no overshoot
+but we want to find the slowest period that produces no overshoot. 40 was a good period with no overshoot so we decided to stick with it. See images below.
 
-The Kp is 50 as determinted to be most efficient by lab2
+
+![Kpof10](Mp70.png)
+
+__Figure 1:__ Motor Responce, Mp = 70.
+
+
+![Kpof20](Mp10.png)
+
+__Figure 2:__ Motor Responce, Mp = 10.
+
+
+![Kpof50](Mp40.png)
+
+__Figure 3:__ Motor Responce, Mp = 40.
+
+
 
 ### Classes
 
