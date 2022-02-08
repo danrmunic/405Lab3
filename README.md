@@ -25,17 +25,21 @@ __Figure 2:__ Motor Responce, Mp = 10.
 __Figure 3:__ Motor Responce, Mp = 40.
 
 
-
 ### Classes
 
-* [Encoder.py](https://github.com/danrmunic/405Labs/blob/main/Lab1/src/Encoder.py)
-* [motor_driver.py](https://github.com/danrmunic/405Labs/blob/main/Lab1/src/motor_driver.py)
-* [main.py](https://github.com/danrmunic/405Labs/blob/main/Lab1/src/main.py)
+* [Encoder.py](https://github.com/danrmunic/405Lab3/blob/main/src/Encoder.py)
+* [motor_driver.py](https://github.com/danrmunic/405Lab3/blob/main/src/motor_driver.py)
+* [main.py](https://github.com/danrmunic/405Lab3/blob/main/src/main.py)
+* [closedloop.py](https://github.com/danrmunic/405Lab3/blob/main/src/closedloop.py)
+
+### Class run by the PC
+
+* [Lab03_PC](https://github.com/danrmunic/405Lab3/blob/main/src/Lab03_PC.py)
 
 ## Documentation
 
-* [Lab03 Documentation](https://github.com/danrmunic/405Lab3/tree)
+* [Lab03 Documentation](https://github.com/danrmunic/405Lab3)
 
 ## Website Link
 
-* [Lab03 Website](https://danrmunic.github.io/405Labs/Lab3/docs/index.html)
+* [Lab03 Website](https://danrmunic.github.io/405Labs/docs/index.html)
